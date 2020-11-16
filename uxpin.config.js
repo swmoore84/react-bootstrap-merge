@@ -4,7 +4,7 @@ module.exports = {
       {
         name: 'General',
         include: [
-          // 'src/Button/Button.js',
+          'src/Button/Button.js',
         ]
       },
       {
